@@ -1,1 +1,1 @@
-# cypress-automation-training
+# CypressProjects
